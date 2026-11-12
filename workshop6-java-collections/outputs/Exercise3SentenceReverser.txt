@@ -1,0 +1,12 @@
+Sentence 1
+  original : To be or not to be.
+  reversed : oT eb ro ton ot eb.
+
+Sentence 2
+  original : Hello, World!
+  reversed : olleH, dlroW!
+
+Sentence 3
+  original : The quick brown fox jumps over the lazy dog.
+  reversed : ehT kciuq nworb xof spmuj revo eht yzal god.
+

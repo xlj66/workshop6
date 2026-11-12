@@ -1,0 +1,19 @@
+PARAGRAPH SEARCH ENGINE
+=======================
+The book contains 10 paragraphs.
+
+Searching for: "keyword search"
+  Match 1 found at array index 2:
+    That would be like a keyword search.
+  Match 2 found at array index 6:
+    That is a question to test keyword search.
+  2 paragraph(s) contained the phrase.
+
+Searching for: "Ada Lovelace"
+  Match 1 found at array index 9:
+    Ada Lovelace is the worlds first programmer as of 1860.
+  1 paragraph(s) contained the phrase.
+
+Searching for: "Harry Potter"
+  The phrase "Harry Potter" was NOT found in any paragraph.
+

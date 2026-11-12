@@ -1,0 +1,14 @@
+MY 10 FAVOURITE SONGS (ALPHABETICAL ORDER)
+------------------------------------------
+ 1. Billie Jean              by Michael Jackson
+ 2. Blinding Lights          by The Weeknd
+ 3. Bohemian Rhapsody        by Queen
+ 4. Hotel California         by Eagles
+ 5. Imagine                  by John Lennon
+ 6. Rolling in the Deep      by Adele
+ 7. Shape of You             by Ed Sheeran
+ 8. Smells Like Teen Spirit  by Nirvana
+ 9. Someone Like You         by Adele
+10. Wonderwall               by Oasis
+------------------------------------------
+Sorted with bubble sort (10 songs).

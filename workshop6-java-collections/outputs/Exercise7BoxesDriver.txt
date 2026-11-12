@@ -1,0 +1,40 @@
+BOX DRAWING PROGRAM
+===================
+
+Box size: 5 x 5
+-----
+|   |
+|   |
+|   |
+-----
+
+Box size: 8 x 8
+--------
+|      |
+|      |
+|      |
+|      |
+|      |
+|      |
+--------
+
+Box size after setSize(10): 10 x 10
+----------
+|        |
+|        |
+|        |
+|        |
+|        |
+|        |
+|        |
+|        |
+----------
+
+Unicode extension, box of 5:
+─────
+│   │
+│   │
+│   │
+─────
+
+Size 12 rejected: Box size must be between 2 and 10 - got 12

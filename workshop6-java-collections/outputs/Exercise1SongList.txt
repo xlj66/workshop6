@@ -1,0 +1,15 @@
+MY 10 FAVOURITE SONGS
+---------------------
+ 1. Bohemian Rhapsody        by Queen
+ 2. Hotel California         by Eagles
+ 3. Imagine                  by John Lennon
+ 4. Billie Jean              by Michael Jackson
+ 5. Rolling in the Deep      by Adele
+ 6. Shape of You             by Ed Sheeran
+ 7. Blinding Lights          by The Weeknd
+ 8. Someone Like You         by Adele
+ 9. Smells Like Teen Spirit  by Nirvana
+10. Wonderwall               by Oasis
+---------------------
+Number of songs stored: 10
+Number of artists stored: 10

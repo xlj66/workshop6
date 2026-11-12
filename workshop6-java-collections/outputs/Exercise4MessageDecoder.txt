@@ -1,0 +1,11 @@
+MESSAGE DECODER
+---------------
+Key (coded -> plain):
+  a b c d e f g h i j k l m n o p q r s t u v w x y z
+  c r g z a v i b s d o e q f h u j x k l w m y n p t
+
+Coded message    : G tgsl Qefe.
+Decoded message  : I like Java.
+
+Coded message    : Qefe akttlazgkxi ebl npx.
+Decoded message  : Java collections are fun.
